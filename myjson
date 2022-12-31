@@ -1,7 +1,7 @@
 {
     "inbounds": [
         {
-            "port": 10086, // server listening port
+            "port": 18686, // server listening port
             "protocol": "vmess",
             "settings": {
                 "clients": [
